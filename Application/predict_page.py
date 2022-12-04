@@ -22,7 +22,7 @@ def show_predict_page():
     st.write("""### We need some information to predict the salary""")
 
     countries = (
-        "United States",
+        "United States of America",
         "India",
         "United Kingdom",
         "Germany",
